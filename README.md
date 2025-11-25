@@ -1,10 +1,9 @@
 # Agenda Fácil NAF
 
 ### Integrantes
-- **Leandro Soares de Souza Barbosa**
 - **Rafaella Pringi de Oliveira Andrade**
-- **Thaylan Cezar de Lima da Silva**
-- **Wallace da Silva Correa**
+- **João Vitor Queiroz Villas Boas**
+- **Flavio Pinheiro Ferreira Martins**
 
 ---
 
