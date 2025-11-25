@@ -11,14 +11,9 @@
 
 #### Tecnologias Utilizadas
 Para o desenvolvimento da plataforma, foram utilizadas as seguintes tecnologias:
+- **TypeScript - Superconjunto do JavaScript que adiciona tipagem estática opcional à linguagem.**
 - **JavaScript - Linguagem de programação usada para fazer páginas interativas da Internet.**
-- **NodeJS - Tecnologia usada para executar código JavaScript em ambiente de servidor.**
-- **ReactJS - Framework JavaScript para desenvolvimento front-end.**
-- **Tailwind CSS - Framework CSS que permite criar estilos personalizados.**
-- **React Icons - Biblioteca de icones para o React.**
-- **React Router DOM - Biblioteca para gerir rotas em aplicações React.**
-- **Vite - Ferramenta de compilação e servidor de desenvolvimento para projetos front-end.**
-- **Vercel - Plataforma de hospedagem de sites.**
+- **Java - Linguagem de programação orientada a objetos, multiplataforma e robusta.**
 - **GitHub - Plataforma de desensolvimento colaborativo.**
 
 #### Instruções para Executar/Abrir o MVP
