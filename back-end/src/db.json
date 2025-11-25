@@ -1,0 +1,133 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "name": "Administrador NAF",
+      "email": "admin@naf.com",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "userId": 2,
+      "name": "Cliente Teste",
+      "email": "cliente@email.com",
+      "password": "123",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "name": "Matheus",
+      "email": "teste@teste.com",
+      "password": "abcd"
+    },
+    {
+      "id": 4,
+      "name": "12134",
+      "email": "joao@email.com",
+      "password": "123",
+      "role": "user"
+    }
+  ],
+  "settings": {
+    "cidade": [
+      {
+        "id": 1,
+        "nome": "Petrópolis"
+      }
+    ],
+    "servico": []
+  },
+  "appointments": [
+    {
+      "id": 1,
+      "local": "NAF-teresópolis",
+      "data": "07-11-2025",
+      "horario": "14:00",
+      "userid": 1
+    },
+    {
+      "id": 2,
+      "local": "NAF-teresópolis",
+      "data": "07-11-2025",
+      "horario": "14:00",
+      "userid": 1
+    },
+    {
+      "id": 3,
+      "local": "Niterói",
+      "data": "2025-11-12",
+      "horario": "17:26",
+      "userId": 5
+    },
+    {
+      "id": 4,
+      "local": "Petrópolis",
+      "data": "2025-11-17",
+      "horario": "19:29",
+      "userId": 6
+    },
+    {
+      "id": 5,
+      "local": "Niterói",
+      "data": "2025-11-17",
+      "horario": "18:54",
+      "userId": 7
+    },
+    {
+      "id": 6,
+      "local": "Teresópolis",
+      "data": "2025-11-21",
+      "horario": "18:03",
+      "userId": 7
+    },
+    {
+      "id": 7,
+      "local": "Teresópolis",
+      "data": "2025-11-20",
+      "horario": "18:22",
+      "userId": 7
+    },
+    {
+      "id": 8,
+      "local": "Duque de Caxias",
+      "data": "2025-11-11",
+      "horario": "21:23",
+      "userId": 7
+    },
+    {
+      "id": 9,
+      "local": "Duque de Caxias",
+      "data": "2025-11-29",
+      "horario": "20:25",
+      "userId": 7
+    },
+    {
+      "id": 10,
+      "local": "Teresópolis",
+      "data": "2025-11-12",
+      "horario": "15:31",
+      "userId": 7
+    },
+    {
+      "id": 11,
+      "local": "Teresópolis",
+      "data": "2025-11-26",
+      "horario": "19:34",
+      "userId": 7
+    },
+    {
+      "id": 12,
+      "local": "Niterói",
+      "data": "2025-11-27",
+      "horario": "10:38",
+      "userId": 7
+    },
+    {
+      "id": 13,
+      "local": "Copacabana",
+      "data": "2025-11-27",
+      "horario": "05:53",
+      "userId": 3
+    }
+  ]
+}
